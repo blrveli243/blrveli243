@@ -1,112 +1,68 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">Veli Bilir</h1>
-<h3 align="center">Junior Machine Learning Engineer | Data-Driven Systems & Applied AI</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="hello" width="300">
 </p>
 
-<p align="center">
-  <b>Focused on building reliable, data-driven machine learning solutions</b>
-</p>
+# Veli Bilir
+
+Computer Engineering student with a practical focus on **machine learning**, **data analysis**, and **mobile application development**.
+Interested in building reliable, data-driven systems and applying AI techniques to real-world problems.
 
 ---
 
-## 👤 Professional Profile
+## Areas of Interest
 
-Junior Machine Learning Engineer with a strong foundation in **machine learning**, **data analysis**, and **scientific computing**.
-Experienced in transforming **raw data and sensor signals** into meaningful insights using well-structured and maintainable code.
-
-Hands-on experience with:
-
-* Applied machine learning pipelines
-* Feature extraction and data preprocessing
-* Model training, evaluation, and optimization
-* Research-oriented and industry-aligned projects
-
-Currently contributing to an **R&D-focused mobile sensing project** supported by **TÜBİTAK**.
+* Machine Learning
+* Deep Learning (CNN fundamentals)
+* Data preprocessing and feature engineering
+* Mobile application development (Android)
+* Scientific and numerical computation
 
 ---
 
-## 🎯 Core Competencies
+## Technical Skills
 
-* Machine Learning (Supervised & Unsupervised)
-* Deep Learning fundamentals (CNN-based models)
-* Data preprocessing & feature engineering
-* Model evaluation & performance analysis
-* Scientific & numerical computation
-* Clean, modular, and testable code practices
+**Programming Languages**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="330"/>
-</p>
+* Python
+* Java
+* C++
+* MATLAB
 
----
+**Libraries & Tools**
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab" />
-</p>
-
-### Libraries & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,androidstudio" />
-</p>
+* NumPy
+* Pandas
+* Scikit-learn
+* Android SDK
 
 ---
 
-## 🚀 Selected Project
+## Projects
 
-### QuakeSense
+**QuakeSense**
+Android-based mobile sensor network for earthquake detection (TÜBİTAK 2206).
 
-**Mobile Sensor-Based Earthquake Detection System**
-
-* Large-scale mobile sensor data collection
-* Signal processing & feature extraction
-* Machine learning-based pattern analysis
-* Scalable system design for real-world usage
-* Supported by **TÜBİTAK 2206**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320"/>
-</p>
+* Mobile sensor data collection
+* Signal processing and basic machine learning techniques
+* Focus on scalability and practical deployment
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blrveli243&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blrveli243&layout=compact&theme=radical" height="165"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=blrveli243\&show_icons=true\&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blrveli243\&layout=compact\&theme=default)
 
 ---
 
-## 💼 Career Interests
+## Career Interests
 
-Actively seeking opportunities as:
+Interested in junior-level roles and internships related to:
 
-* Junior Machine Learning Engineer
-* AI / Data Science Intern
-* R&D Engineer (AI-focused teams)
-
-Interested in **industry-driven ML applications**, scalable systems, and continuous learning within professional engineering teams.
+* Machine Learning / Data Science
+* AI-focused R&D teams
+* Mobile and data-driven software development
 
 ---
 
-## 📫 Contact & Collaboration
-
-<p align="center">
-  <a href="https://github.com/blrveli243">
-    <img src="https://img.shields.io/badge/GitHub-blrveli243-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-⭐ *Committed to engineering discipline, data-driven thinking, and real-world impact.*
+This profile reflects my ongoing learning process and hands-on project experience.
