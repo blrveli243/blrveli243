@@ -1,68 +1,43 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="hello" width="300">
-</p>
-
 # Veli Bilir
 
-Computer Engineering student with a practical focus on **machine learning**, **data analysis**, and **mobile application development**.
-Interested in building reliable, data-driven systems and applying AI techniques to real-world problems.
+Computer Engineering student focused on building functional, data-driven solutions. My work primarily revolves around **Machine Learning**, **Android Development**, and **Signal Processing**.
+
+I bridge the gap between raw data and actionable insights, whether it’s through seismic sensor networks or predictive modeling.
 
 ---
 
-## Areas of Interest
+### Technical Focus 🛠️
 
-* Machine Learning
-* Deep Learning (CNN fundamentals)
-* Data preprocessing and feature engineering
-* Mobile application development (Android)
-* Scientific and numerical computation
-
----
-
-## Technical Skills
-
-**Programming Languages**
-
-* Python
-* Java
-* C++
-* MATLAB
-
-**Libraries & Tools**
-
-* NumPy
-* Pandas
-* Scikit-learn
-* Android SDK
+* **Machine Learning:** Developing predictive models with Scikit-learn; emphasis on data preprocessing and feature engineering.
+* **Mobile Systems:** Building Android applications that interact with hardware sensors for real-world monitoring.
+* **Web Technologies:** Developing responsive front-end interfaces and integrating them with backend logic.
+* **Scientific Computing:** Leveraging MATLAB for numerical analysis and complex mathematical modeling.
 
 ---
 
-## Projects
+### Core Projects
 
-**QuakeSense**
-Android-based mobile sensor network for earthquake detection (TÜBİTAK 2206).
+**QuakeSense** | *Android, Java, ML*
+A mobile sensor network designed for earthquake detection and automated notification systems. Funded by **TÜBİTAK 2206**.
+* Real-time processing of accelerometer and gyroscope data.
+* Implementation of location-based alert protocols.
 
-* Mobile sensor data collection
-* Signal processing and basic machine learning techniques
-* Focus on scalability and practical deployment
+**Wine Quality Analysis** | *Python, Scikit-learn*
+A machine learning project focused on classifying wine quality through chemical properties.
+* Applied various classification algorithms to find the most accurate predictive model.
+* Conducted deep exploratory data analysis (EDA) to identify key quality drivers.
 
----
-
-## GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=blrveli243\&show_icons=true\&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blrveli243\&layout=compact\&theme=default)
-
----
-
-## Career Interests
-
-Interested in junior-level roles and internships related to:
-
-* Machine Learning / Data Science
-* AI-focused R&D teams
-* Mobile and data-driven software development
+**Web Development Portfolio** | *HTML/CSS, JS*
+A collection of responsive web projects focusing on clean UI and efficient user workflows.
 
 ---
 
-This profile reflects my ongoing learning process and hands-on project experience.
+### Toolbox
+
+**Languages:** Python, Java, C++, MATLAB, SQL  
+**Frameworks & Libraries:** Android SDK, NumPy, Pandas, Scikit-learn  
+**Tools:** Git, Linux, Jupyter Notebooks
+
+---
+
+**Currently exploring junior-level opportunities and research collaborations in AI and Software Engineering.**
