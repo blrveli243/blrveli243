@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3VqM3M0eHh3YjNscXo1eXp3eHh3YjNscXo1eXp3eHh3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZW5naWZfb3JpZ2luYWwmY3Q9Zw/Vkan7VvGIsXY4/giphy.gif" width="150" alt="Hello">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNsdXpzbXY5dml2NGh5ZXM4aTRzN2wwZWQwaGVrdTExdHoyN3F2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="500" alt="Hello">
 </p>
 
 # Veli Bilir
