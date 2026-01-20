@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Veli! 👋
 
-<!--
-**blrveli243/blrveli243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering Student** based in Denizli, specializing in **Machine Learning**, **Android Development**, and **Scientific Computation**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **QuakeSense**: An Android-based mobile sensor network for earthquake detection (TÜBİTAK 2206).
+- 🌱 I’m currently learning Deep Learning and advanced Data Science.
+- 🏍️ In my free time, I love riding motorcycles and photography with my Canon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack 🛠️
+- **Languages:** Python, Java, MATLAB, C++
+- **Tools & Frameworks:** Android SDK, Scikit-learn, NumPy, Pandas
+- **Interests:** AI, IoT, Digital Image Processing
+
+### GitHub Stats 📊
+![Veli's GitHub stats](https://github-readme-stats.vercel.app/api?username=blrveli243&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blrveli243&layout=compact&theme=radical)
