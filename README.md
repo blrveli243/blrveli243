@@ -25,5 +25,5 @@ Computer Engineering Student focused on building intelligent, scalable systems.
 
 ---
 
-📫 **LinkedIn:** (your-link)  
-📧 **Email:** (your-email)
+📫 **LinkedIn:** (https://www.linkedin.com/in/veli-bilir-bb433030a/)  
+📧 **Email:** (velibilir950@gmail.com)
