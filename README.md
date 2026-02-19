@@ -8,7 +8,7 @@ Computer Engineering Student focused on building intelligent, scalable systems.
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,dart,flutter,ts,js,nodejs,sqlite,kotlin" />
@@ -16,7 +16,7 @@ Computer Engineering Student focused on building intelligent, scalable systems.
 
 ---
 
-### 🔍 Focus
+###  Focus
 
 - AI-powered mobile systems  
 - Real-time detection & sensor-based applications  
